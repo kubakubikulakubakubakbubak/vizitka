@@ -6,4 +6,4 @@ Výsledkem je [webová stránka](https://kubakubikulakubakubakbubak.github.io/vi
 
 ## Ukázka výsledku
 
-![webová stránka](
+![webová stránka](cas.png)
